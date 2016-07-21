@@ -1,0 +1,20 @@
+1. Splash page 
+2. Login with Facebook or email
+3. Sensory wheel
+    You can see the colours and symbols only. 
+    You can also see the words in smaller text around the outside of the wheel. 
+3a. When you click on a wedge, it will direct you to  a NEW page, which lists a range of items/pictures/icons that the user can select; these are image based checkboxes.
+There are three types of wedges: green (I like it/I seek it), orange (I'm indifferent), and red (I avoid it). 
+User should be able to navigate back to the wheel using back arrows.
+4. Menu bar (navbar)
+    FAQs
+    Write a review
+    Feedback and support (including contact)
+    Privacy terms
+    Log out
+    Standard account settings
+
+5. My Details 
+User can see a summary of all items logged previously, inlcuding date (free), time and location (paid).
+
+Paid version will be able to see historical output in chart form over a longer timescale. 
